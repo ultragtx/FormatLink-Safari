@@ -1,5 +1,10 @@
 # Format Link for Safari
 
+## Download
+
+* [FormatLink.safariextz](https://github.com/ultragtx/FormatLink-Safari/releases)
+* Or build yourself: Safari Develop -> Show Extension Builder
+
 ## Why do I need it?
 To format the link of the active tab instantly to use in Markdown, Textile or other formats.
 
