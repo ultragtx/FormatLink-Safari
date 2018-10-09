@@ -3,6 +3,7 @@
 ## Download
 
 * [FormatLink.safariextz](https://github.com/ultragtx/FormatLink-Safari/releases)
+   * Safari 12+ does not allow unsafe extensions, you need to build yourself
 * Or build yourself: Safari Develop -> Show Extension Builder
 
 ## Why do I need it?
