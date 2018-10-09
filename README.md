@@ -3,8 +3,8 @@
 ## Download
 
 * [FormatLink.safariextz](https://github.com/ultragtx/FormatLink-Safari/releases)
-   * Safari 12+ does not allow unsafe extensions, you need to build yourself
-* Or build yourself: Safari Develop -> Show Extension Builder
+   * Safari 12+ does not allow unsafe extensions, you need to build the extension yourself
+* Or build the extension yourself: Safari Develop -> Show Extension Builder
 
 ## Why do I need it?
 To format the link of the active tab instantly to use in Markdown, Textile or other formats.
